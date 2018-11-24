@@ -6,6 +6,7 @@ This repository contains the code I developed while learning [PyTorch](https://g
 
 ## Examples
 * Example 1: [Logistic Regression](https://github.com/joaofilipedg/DeepLearning_pytorch/blob/master/example1_logistic_regression_and_feedforward_nn.py#L63-L68) and Feedforward Neural Networks ([single-layer](https://github.com/joaofilipedg/DeepLearning_pytorch/blob/master/example1_logistic_regression_and_feedforward_nn.py#L70-L88) and [multi-layer](https://github.com/joaofilipedg/DeepLearning_pytorch/blob/master/example1_logistic_regression_and_feedforward_nn.py#L90-L108))
+* Example 2: Dynamic Programming: Viterbi and Forward-Backward algorithms
 
 ## Most examples (examples 1, 3 and 4) use the following dataset:
 * OCR data set: http://ai.stanford.edu/~btaskar/ocr/
