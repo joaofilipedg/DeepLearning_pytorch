@@ -13,7 +13,7 @@ This repository contains the code I developed while learning [PyTorch](https://g
 
 ## Used datasets:
 * **Examples 1,2 and 4:** OCR data set from http://ai.stanford.edu/~btaskar/ocr/
-* **Example 5:** Arabic-English transliteration data from [googlei18n]((https://github.com/googlei18n/transliteration))
+* **Example 5:** Arabic-English transliteration data from [googlei18n](https://github.com/googlei18n/transliteration)
 
 ## Developed and tested with
 * [Python 3.6](https://www.python.org/downloads/release/python-365/)
