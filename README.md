@@ -9,9 +9,11 @@ This repository contains the code I developed while learning [PyTorch](https://g
 * Example 2: Dynamic Programming: [Viterbi](https://github.com/joaofilipedg/DeepLearning_pytorch/blob/master/example2_dynamic_programming.py#L3-L34) and [Forward-Backward](https://github.com/joaofilipedg/DeepLearning_pytorch/blob/master/example2_dynamic_programming.py#L69-L91) algorithms
 * Example 3: [Convolutional Neural Network](https://github.com/joaofilipedg/DeepLearning_pytorch/blob/master/example3_CNN.py#L46-L66)
 * Example 4: Recurrent Neural Networks: [BILSTM](https://github.com/joaofilipedg/DeepLearning_pytorch/blob/master/example4_rnn_lstm.py#L84-L108) and [CNN+BILSTM](https://github.com/joaofilipedg/DeepLearning_pytorch/blob/master/example4_rnn_lstm.py#L46-L82)
+* Example 5: Transliteration using sequence-to-sequence model: [Vanilla LSTM Encoder-Decoder](https://github.com/joaofilipedg/DeepLearning_pytorch/blob/master/example5_seq2seq.py#L129-L173) and [BILSTM Encoder and Decoder with Attention Mechanism](https://github.com/joaofilipedg/DeepLearning_pytorch/blob/master/example5_seq2seq.py#L175-L268) - Based on the [PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
-## Most examples (examples 1, 3 and 4) use the following dataset:
-* OCR data set: http://ai.stanford.edu/~btaskar/ocr/
+## Used datasets:
+* **Examples 1,2 and 4:** OCR data set from http://ai.stanford.edu/~btaskar/ocr/
+* **Example 5:** Arabic-English transliteration data from [googlei18n]((https://github.com/googlei18n/transliteration))
 
 ## Developed and tested with
 * [Python 3.6](https://www.python.org/downloads/release/python-365/)
